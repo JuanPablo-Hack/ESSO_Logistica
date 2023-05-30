@@ -3,13 +3,12 @@
         <div class="row gy-4">
             <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
                 <img src="assets/img/about.jpg" class="img-fluid" alt="" />
-                <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
+                <a href="assets/img/esso.mp4" class="glightbox play-btn"></a>
             </div>
             <div class="col-lg-6 content order-last order-lg-first">
                 <h3>Acerca de</h3>
                 <p>
-                    Nacemos por la visión de crear empresas que ofrezcan soluciones a las necesidades para los clientes del medio marítimo portuario, lo que nos ha llevado a aprovechar, las oportunidades que el mismo medio nos ofrece. <br>
-                    Ya que es la estructura para el desarrollo del comercio exterior y con la experiencia de mas de 2 años, en la innovación en diferentes negocios, nos da la oportunidad de continuar con la visión de ofrecer soluciones a las necesidades del comercio exterior!
+                    Empresa especializada en el sector logístico nacional, ofreciendo servicios desde transporte terrestre de todo tipo de carga nacional e internacional, así como agenciamiento aduanero para la importación y exportación de todo tipo de mercancías.
                 </p>
                 <ul>
                     <li data-aos="fade-up" data-aos-delay="100">

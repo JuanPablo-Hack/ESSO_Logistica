@@ -11,8 +11,6 @@
     <?php
     include "components/Services/Breadcump.php";
     include "components/Services/OurServices.php";
-    include "components/Services/FeaturedServices.php";
-    include "components/Services/FeaturesServices.php";
     ?>
   </main>
   <?php include "static/footer.php"; ?>

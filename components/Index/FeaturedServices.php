@@ -6,12 +6,10 @@
                     <i class="fa-solid fa-cart-flatbed"></i>
                 </div>
                 <div>
-                    <h4 class="title">Lorem Ipsum</h4>
+                    <h4 class="title">Maniobras y almacenajes</h4>
                     <p class="description">
-                        Voluptatum deleniti atque corrupti quos dolores et quas
-                        molestias excepturi sint occaecati cupiditate non provident
+                        El manipuleo o manejo de la carga es la acción de mover la carga en los distintos lugares por donde ésta deberá pasar (fábrica, terminales, almacenes).
                     </p>
-                    <a href="service-details.html" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
@@ -19,12 +17,11 @@
                     <i class="fa-solid fa-truck"></i>
                 </div>
                 <div>
-                    <h4 class="title">Dolor Sitema</h4>
+                    <h4 class="title">Transporte de carga foraneo</h4>
                     <p class="description">
-                        Minim veniam, quis nostrud exercitation ullamco laboris nisi
-                        ut aliquip ex ea commodo consequat tarad limino ata
+                        Innovando e invirtiendo en sistemas y personal para así lograr
+                        culminar las operaciones en el menor tiempo posible.
                     </p>
-                    <a href="service-details.html" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
@@ -32,12 +29,10 @@
                     <i class="fa-solid fa-truck-ramp-box"></i>
                 </div>
                 <div>
-                    <h4 class="title">Sed ut perspiciatis</h4>
+                    <h4 class="title">Despacho aduanal.</h4>
                     <p class="description">
-                        Duis aute irure dolor in reprehenderit in voluptate velit esse
-                        cillum dolore eu fugiat nulla pariatur
+                        El despacho aduanero es el conjunto de actos y formalidades relativos a la entrada de mercancías al territorio nacional y a su salida del mismo.
                     </p>
-                    <a href="service-details.html" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
                 </div>
             </div>
         </div>

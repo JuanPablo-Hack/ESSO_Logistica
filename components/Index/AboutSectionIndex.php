@@ -6,41 +6,40 @@
                 <a href="https://www.youtube.com/watch?v=LXb3EKWsInQ" class="glightbox play-btn"></a>
             </div>
             <div class="col-lg-6 content order-last order-lg-first">
-                <h3>About Us</h3>
+                <h3>Acerca de</h3>
                 <p>
-                    Dolor iure expedita id fuga asperiores qui sunt consequatur
-                    minima. Quidem voluptas deleniti. Sit quia molestiae quia quas
-                    qui magnam itaque veritatis dolores. Corrupti totam ut eius
-                    incidunt reiciendis veritatis asperiores placeat.
+                    Nacemos por la visión de crear empresas que ofrezcan soluciones a las necesidades para los clientes del medio marítimo portuario, lo que nos ha llevado a aprovechar, las oportunidades que el mismo medio nos ofrece. <br>
+                    Ya que es la estructura para el desarrollo del comercio exterior y con la experiencia de mas de 2 años, en la innovación en diferentes negocios, nos da la oportunidad de continuar con la visión de ofrecer soluciones a las necesidades del comercio exterior!
                 </p>
                 <ul>
                     <li data-aos="fade-up" data-aos-delay="100">
                         <i class="bi bi-diagram-3"></i>
                         <div>
-                            <h5>Ullamco laboris nisi ut aliquip consequat</h5>
+                            <h5>HONESTIDAD</h5>
                             <p>
-                                Magni facilis facilis repellendus cum excepturi quaerat
-                                praesentium libre trade
+                                Logrando relaciones comerciales con nuestros clientes a
+                                largo plazo, basándonos en la honestidad y transparencia
+                                de las operaciones.
                             </p>
                         </div>
                     </li>
                     <li data-aos="fade-up" data-aos-delay="200">
                         <i class="bi bi-fullscreen-exit"></i>
                         <div>
-                            <h5>Magnam soluta odio exercitationem reprehenderi</h5>
+                            <h5>EFICIENCIA</h5>
                             <p>
-                                Quo totam dolorum at pariatur aut distinctio dolorum
-                                laudantium illo direna pasata redi
+                                Innovando e invirtiendo en sistemas y personal para así lograr
+                                culminar las operaciones en el menor tiempo posible.
                             </p>
                         </div>
                     </li>
                     <li data-aos="fade-up" data-aos-delay="300">
                         <i class="bi bi-broadcast"></i>
                         <div>
-                            <h5>Voluptatem et qui exercitationem</h5>
+                            <h5>RESPONSABILIDAD</h5>
                             <p>
-                                Et velit et eos maiores est tempora et quos dolorem autem
-                                tempora incidunt maxime veniam
+                                Personal comprometido a la empresa para así siempre buscar un
+                                beneficio para nuestros clientes.
                             </p>
                         </div>
                     </li>

@@ -8,26 +8,21 @@
                     <span>ESSO</span>
                 </a>
                 <p>
-                    Cras fermentum odio eu feugiat lide par naso tierra. Justo eget
-                    nada terra videa magna derita valies darta donna mare fermentum
-                    iaculis eu non diam phasellus.
+                    Somos una empresa fundada por personal especializado
+                    en transporte, distribución y comercio aduanal en
+                    territorio nacional, siendo el principal objetivo la
+                    reducción de costes.
                 </p>
-                <div class="social-links d-flex mt-4">
-                    <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-                    <a href="#" class="facebook"><i class="bi bi-facebook"></i></a>
-                    <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-                    <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></a>
-                </div>
             </div>
 
             <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-                <h4>Contact Us</h4>
+                <h4>Contacta con Nosotros</h4>
                 <p>
                     A108 Adam Street <br />
                     New York, NY 535022<br />
                     United States <br /><br />
-                    <strong>Phone:</strong> +1 5589 55488 55<br />
-                    <strong>Email:</strong> info@example.com<br />
+                    <strong>Phone:</strong> <a href="tel:+3141748915"></a> +52 314 174 8915<br />
+                    <strong>Email:</strong> <a href="mailto:asolis@logisticaesso.com"></a>asolis@logisticaesso.com<br />
                 </p>
             </div>
         </div>

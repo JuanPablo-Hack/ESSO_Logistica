@@ -3,8 +3,8 @@
         <div class="container position-relative">
             <div class="row d-flex justify-content-center">
                 <div class="col-lg-6 text-center">
-                    <h2>Contact</h2>
-                    <p>Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi ratione sint. Sit quaerat ipsum dolorem.</p>
+                    <h2>Contacto</h2>
+                    <p>Logramos de forma eficiente la vinculación de cada área en la cadena de suministro de mercancías de comercio exterior !</p>
                 </div>
             </div>
         </div>
@@ -12,8 +12,8 @@
     <nav>
         <div class="container">
             <ol>
-                <li><a href="index.html">Home</a></li>
-                <li>Contact</li>
+                <li><a href="index.html">Inicio</a></li>
+                <li>Contacto</li>
             </ol>
         </div>
     </nav>

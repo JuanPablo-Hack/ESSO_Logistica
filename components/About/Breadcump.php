@@ -3,8 +3,13 @@
         <div class="container position-relative">
             <div class="row d-flex justify-content-center">
                 <div class="col-lg-6 text-center">
-                    <h2>About</h2>
-                    <p>Odio et unde deleniti. Deserunt numquam exercitationem. Officiis quo odio sint voluptas consequatur ut a odio voluptatem. Sit dolorum debitis veritatis natus dolores. Quasi ratione sint. Sit quaerat ipsum dolorem.</p>
+                    <h2>
+                        Acerca de
+                    </h2>
+                    <p>Para así convertirnos en el mayor operador
+                        logístico en México y unos de los lideres en
+                        Latino América, en transporete terrestre y
+                        comercio aduanal.</p>
                 </div>
             </div>
         </div>
@@ -12,8 +17,8 @@
     <nav>
         <div class="container">
             <ol>
-                <li><a href="index.html">Home</a></li>
-                <li>About</li>
+                <li><a href="index.html">Inicio</a></li>
+                <li>Acerca</li>
             </ol>
         </div>
     </nav>

@@ -14,7 +14,6 @@
     <?php
     include "components/Index/FeaturedServices.php";
     include "components/Index/AboutSectionIndex.php";
-    include "components/Index/ServicesIndex.php";
     include "components/Index/FeaturesSection.php";
     include "components/Index/CallToAction.php";
     ?>

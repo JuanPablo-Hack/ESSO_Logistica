@@ -2,8 +2,8 @@
     <div class="container" data-aos="fade-up">
 
         <div class="section-header">
-            <span>Our Team</span>
-            <h2>Our Team</h2>
+            <span>Nuestras Unidades</span>
+            <h2>Nuestras Unidades</h2>
 
         </div>
 
@@ -18,12 +18,7 @@
                         <p>
                             Magni qui quod omnis unde et eos fuga et exercitationem. Odio veritatis perspiciatis quaerat qui aut aut aut
                         </p>
-                        <div class="social">
-                            <a href=""><i class="bi bi-twitter"></i></a>
-                            <a href=""><i class="bi bi-facebook"></i></a>
-                            <a href=""><i class="bi bi-instagram"></i></a>
-                            <a href=""><i class="bi bi-linkedin"></i></a>
-                        </div>
+
                     </div>
                 </div>
             </div><!-- End Team Member -->
@@ -37,12 +32,7 @@
                         <p>
                             Repellat fugiat adipisci nemo illum nesciunt voluptas repellendus. In architecto rerum rerum temporibus
                         </p>
-                        <div class="social">
-                            <a href=""><i class="bi bi-twitter"></i></a>
-                            <a href=""><i class="bi bi-facebook"></i></a>
-                            <a href=""><i class="bi bi-instagram"></i></a>
-                            <a href=""><i class="bi bi-linkedin"></i></a>
-                        </div>
+
                     </div>
                 </div>
             </div><!-- End Team Member -->
@@ -56,12 +46,7 @@
                         <p>
                             Voluptas necessitatibus occaecati quia. Earum totam consequuntur qui porro et laborum toro des clara
                         </p>
-                        <div class="social">
-                            <a href=""><i class="bi bi-twitter"></i></a>
-                            <a href=""><i class="bi bi-facebook"></i></a>
-                            <a href=""><i class="bi bi-instagram"></i></a>
-                            <a href=""><i class="bi bi-linkedin"></i></a>
-                        </div>
+
                     </div>
                 </div>
             </div><!-- End Team Member -->

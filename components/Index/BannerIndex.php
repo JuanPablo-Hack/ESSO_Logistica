@@ -4,8 +4,7 @@
             <div class="col-lg-6 order-2 order-lg-1 d-flex flex-column justify-content-center">
                 <h2 data-aos="fade-up">Su compañia de entrega más confiable y rápida</h2>
                 <p data-aos="fade-up" data-aos-delay="100">
-                    Somos una empresa de logística ubicada en el puerto de Manzanillo.
-                    Es ofrecer a nuestros clientes servicios integrales a través de la cadena de suministro de importación y exportación, garantizando su plena satisfacción.
+                    Empresa especializada en el sector logístico nacional, ofreciendo servicios desde transporte terrestre de todo tipo de carga nacional e internacional, así como agenciamiento aduanero para la importación y exportación de todo tipo de mercancías.
                 </p>
                 <div class="row gy-4" data-aos="fade-up" data-aos-delay="400">
                     <div class="col-lg-3 col-6">

@@ -1,5 +1,5 @@
 <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-<div id="preloader"></div>
+
 <footer id="footer" class="footer">
     <div class="container">
         <div class="row gy-4">
@@ -43,3 +43,4 @@
 <script src="assets/vendor/aos/aos.js"></script>
 <script src="assets/vendor/php-email-form/validate.js"></script>
 <script src="assets/js/main.js"></script>
+<script src="assets/js/carga.js"></script>

@@ -16,3 +16,4 @@ planificando todas las actividades necesarias de la cadena." name="description" 
 <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" />
 <link href="assets/vendor/aos/aos.css" rel="stylesheet" />
 <link href="assets/css/main.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css">

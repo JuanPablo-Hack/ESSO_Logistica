@@ -7,18 +7,23 @@
 
 <body>
   <?php
-  include "static/header.php";
-  include "components/Index/BannerIndex.php";
+  include "components/Loader.php";
   ?>
-  <main id="main">
+  <div class="contenido" id="contenido">
     <?php
-    include "components/Index/FeaturedServices.php";
-    include "components/Index/AboutSectionIndex.php";
-    include "components/Index/FeaturesSection.php";
-    include "components/Index/CallToAction.php";
+    include "static/header.php";
+    include "components/Index/BannerIndex.php";
     ?>
-  </main>
-  <?php include "static/footer.php"; ?>
+    <main id="main">
+      <?php
+      include "components/Index/FeaturedServices.php";
+      include "components/Index/AboutSectionIndex.php";
+      include "components/Index/FeaturesSection.php";
+      include "components/Index/CallToAction.php";
+      ?>
+    </main>
+    <?php include "static/footer.php"; ?>
+  </div>
 </body>
 
 </html>

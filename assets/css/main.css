@@ -22,8 +22,8 @@
 /* Colors */
 :root {
   --color-default: #0a0d13;
-  --color-primary: #0d42ff;
-  --color-secondary: #0e1d34;
+  --color-primary: #d80e26;
+  --color-secondary: #03030c;
 }
 
 /* Smooth scroll behavior */
@@ -78,7 +78,7 @@ section {
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 0;
-  color: #001973;
+  color: #d80e26;
   position: relative;
   z-index: 2;
   margin-bottom: 20px;
@@ -523,7 +523,7 @@ section {
     padding: 10px 0;
     margin: 10px 20px;
     transition: all 0.5s ease-in-out;
-    border: 1px solid #19335c;
+    border: 1px solid #d80e26;
   }
 
   .navbar .dropdown > .dropdown-active,
@@ -584,7 +584,7 @@ section {
 }
 
 .featured-services .service-item .icon i {
-  color: #001f8d;
+  color: #991727;
   font-size: 48px;
   transition: 0.3s;
 }
@@ -637,7 +637,7 @@ section {
   font-weight: 700;
   font-size: 32px;
   font-family: var(--font-secondary);
-  color: #001f8d;
+  color: #991727;
 }
 
 .about .content ul {
@@ -662,7 +662,7 @@ section {
 .about .content ul h5 {
   font-size: 18px;
   font-weight: 700;
-  color: #19335c;
+  color: #d80e26;
 }
 
 .about .content ul p {
@@ -785,7 +785,7 @@ section {
 }
 
 .services .card a {
-  color: #001973;
+  color: #d80e26;
   transition: 0.3;
 }
 
@@ -869,7 +869,7 @@ section {
 .features .features-item h3 {
   font-weight: 600;
   font-size: 26px;
-  color: #001973;
+  color: #d80e26;
 }
 
 .features .features-item ul {
@@ -1809,7 +1809,7 @@ section {
 --------------------------------------------------------------*/
 .footer {
   font-size: 14px;
-  background-color: var(--color-secondary);
+  background-color: var(--color-primary);
   padding: 50px 0;
   color: white;
 }
@@ -1917,4 +1917,23 @@ section {
 
 .footer .credits a {
   color: #fff;
+}
+
+/*--------------------------------------------------------------
+# Cargador de la página
+--------------------------------------------------------------*/
+
+.logo_carga {
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  top: 50%;
+  left: 47%;
+  margin-left: -130px;
+  margin-top: -200px;
+  padding: 5px;
+}
+
+.contenido {
+  display: none;
 }

@@ -40,7 +40,7 @@
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="400">
                 <div class="card">
                     <div class="card-img">
-                        <img src="assets/img/trucking-service.jpg" alt="" class="img-fluid">
+                        <img src="assets/img/IMG_3827.jpeg" alt="" class="img-fluid">
                     </div>
                     <h3><a class="stretched-link">Transporte de carga foraneo</a></h3>
                     <p>Dicta quam similique quia architecto eos nisi aut ratione aut ipsum reiciendis sit doloremque oluptatem aut et molestiae ut et nihil</p>

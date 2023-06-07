@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
             <div class="col-md-5">
-                <img src="assets/img/trucking-service.jpg" class="img-fluid" alt="" />
+                <img src="assets/img/IMG_4506.jpeg" class="img-fluid" alt="" />
             </div>
             <div class="col-md-7">
                 <h3>

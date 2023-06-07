@@ -3,7 +3,7 @@
 
         <div class="row gy-4">
             <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
-                <img src="assets/img/about.jpg" class="img-fluid" alt="">
+                <img src="assets/img/IMG_5083.jpeg" class="img-fluid" alt="">
                 <a href="assets/img/esso.mp4" class="glightbox play-btn"></a>
             </div>
             <div class="col-lg-6 content order-last  order-lg-first">

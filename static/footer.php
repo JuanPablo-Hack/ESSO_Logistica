@@ -1,11 +1,17 @@
 <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
+<div class="phone-call cbh-phone cbh-green cbh-show  cbh-static" id="clbh_phone_div">
+    <a id="WhatsApp-button" href="https://api.whatsapp.com/send?phone=5213141748915" target="_blank" class="phoneJs" title="WhatsApp 360imagem">
+        <div class="cbh-ph-circle"></div>
+        <div class="cbh-ph-circle-fill"></div>
+        <div class="cbh-ph-img-circle1"></div>
+    </a>
+</div>
 <footer id="footer" class="footer">
     <div class="container">
         <div class="row gy-4">
             <div class="col-lg-5 col-md-12 footer-info">
-                <a href="index.html" class="logo d-flex align-items-center">
-                    <span>ESSO</span>
+                <a href="index.php" class="logo d-flex align-items-center">
+                    <span><img src="assets/img/logo.png" alt=""></span>
                 </a>
                 <p>
                     Somos una empresa fundada por personal especializado

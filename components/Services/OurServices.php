@@ -17,8 +17,7 @@
                     <h3><a class="stretched-link">Transporte de carga local</a></h3>
                     <p>Cumque eos in qui numquam. Aut aspernatur perferendis sed atque quia voluptas quisquam repellendus temporibus itaqueofficiis odit</p>
                 </div>
-            </div><!-- End Card Item -->
-
+            </div>
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
                 <div class="card">
                     <div class="card-img">
@@ -27,12 +26,11 @@
                     <h3><a class="stretched-link">Despacho aduanal</a></h3>
                     <p>El despacho aduanero es el conjunto de actos y formalidades relativos a la entrada de mercancías al territorio nacional y a su salida del mismo.</p>
                 </div>
-            </div><!-- End Card Item -->
-
+            </div>
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
                 <div class="card">
                     <div class="card-img">
-                        <img src="assets/img/cargo-service.jpg" alt="" class="img-fluid">
+                        <img src="assets/img/buque.jpg" alt="" class="img-fluid">
                     </div>
                     <h3><a class="stretched-link">Flete marítimo</a></h3>
                     <p> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Inventore repudiandae dolorum repellat, sunt facilis porro alias ipsam corporis exercitationem voluptate cumque quis quaerat expedita quo illo ab corrupti facere explicabo.</p>

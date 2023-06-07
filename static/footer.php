@@ -24,9 +24,9 @@
             <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
                 <h4>Contacta con Nosotros</h4>
                 <p>
-                    A108 Adam Street <br />
-                    New York, NY 535022<br />
-                    United States <br /><br />
+                    Tabachines 2088 <br />
+                    Barrio 5 Valle de las Garzas<br />
+                    Salagua, Col C.P.: 28219 <br /><br />
                     <strong>Phone:</strong> <a href="tel:+3141748915"></a> +52 314 174 8915<br />
                     <strong>Email:</strong> <a href="mailto:asolis@logisticaesso.com"></a>asolis@logisticaesso.com<br />
                 </p>

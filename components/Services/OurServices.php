@@ -18,7 +18,7 @@
             <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                 <div class="card">
                     <div class="card-img">
-                        <img src="assets/img/cargo-service.jpg" alt="" class="img-fluid">
+                        <img src="assets/img/IMG_4800.jpeg" alt="" class="img-fluid">
                     </div>
                     <h3><a class="stretched-link">Transporte de carga local</a></h3>
                     <p>Cumque eos in qui numquam. Aut aspernatur perferendis sed atque quia voluptas quisquam repellendus temporibus itaqueofficiis odit</p>

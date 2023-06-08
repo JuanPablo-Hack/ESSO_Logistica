@@ -27,7 +27,7 @@
         </div>
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
             <div class="col-md-5 order-1 order-md-2">
-                <img src="assets/img/IMG_4506.jpeg" class="img-fluid" alt="" />
+                <img src="assets/img/IMG_4800.jpeg" class="img-fluid" alt="" />
             </div>
             <div class="col-md-7 order-2 order-md-1">
                 <h3>Transporte de carga local</h3>
@@ -59,6 +59,19 @@
                 </h3>
                 <p class="fst-italic">
                     El despacho aduanero es el conjunto de actos y formalidades relativos a la entrada de mercancías al territorio nacional y a su salida del mismo, que de acuerdo con los diferentes tráficos y regímenes aduaneros establecidos, deben realizar ante la aduana, las autoridades aduaneras y quienes introducen o extraen
+                </p>
+            </div>
+        </div>
+        <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
+            <div class="col-md-5">
+                <img src="assets/img/buque.jpg" class="img-fluid" alt="" />
+            </div>
+            <div class="col-md-7">
+                <h3>
+                    Flete marítimo
+                </h3>
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. At praesentium perspiciatis alias, odio magni sit doloribus asperiores fuga possimus maxime, repudiandae perferendis porro rem aliquam? Temporibus animi asperiores eum saepe?
                 </p>
             </div>
         </div>

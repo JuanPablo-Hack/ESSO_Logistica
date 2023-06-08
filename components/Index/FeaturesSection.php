@@ -2,7 +2,7 @@
     <div class="container">
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
             <div class="col-md-5">
-                <img src="assets/img/IMG_4506.jpeg" class="img-fluid" alt="" />
+                <img src="assets/img/IMG_3827.jpeg" class="img-fluid" alt="" />
             </div>
             <div class="col-md-7">
                 <h3>
@@ -27,7 +27,7 @@
         </div>
         <div class="row gy-4 align-items-center features-item" data-aos="fade-up">
             <div class="col-md-5 order-1 order-md-2">
-                <img src="assets/img/storage-service.jpg" class="img-fluid" alt="" />
+                <img src="assets/img/IMG_4506.jpeg" class="img-fluid" alt="" />
             </div>
             <div class="col-md-7 order-2 order-md-1">
                 <h3>Transporte de carga local</h3>

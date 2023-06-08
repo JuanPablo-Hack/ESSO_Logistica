@@ -2,7 +2,7 @@
     <div class="container" data-aos="fade-up">
         <div class="row gy-4">
             <div class="col-lg-6 position-relative align-self-start order-lg-last order-first">
-                <img src="assets/img/IMG_4800.jpeg" class="img-fluid" alt="" />
+                <img src="assets/img/image002.jpg" class="img-fluid" alt="" />
                 <a href="assets/img/esso.mp4" class="glightbox play-btn"></a>
             </div>
             <div class="col-lg-6 content order-last order-lg-first">

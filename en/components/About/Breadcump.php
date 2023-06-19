@@ -1,15 +1,15 @@
 <div class="breadcrumbs">
-    <div class="page-header d-flex align-items-center" style="background-image: url('assets/img/page-header.jpg');">
+    <div class="page-header d-flex align-items-center" style="background-image: url('../assets/img/page-header.jpg');">
         <div class="container position-relative">
             <div class="row d-flex justify-content-center">
                 <div class="col-lg-6 text-center">
                     <h2>
-                        Acerca de
+                        About
                     </h2>
-                    <p>Para así convertirnos en el mayor operador
-                        logístico en México y unos de los lideres en
-                        Latino América, en transporete terrestre y
-                        comercio aduanal.</p>
+                    <p>In order to become the largest operator
+                        logistics in Mexico and one of the leaders in
+                        Latin America, by ground transportation and
+                        customs trade.</p>
                 </div>
             </div>
         </div>

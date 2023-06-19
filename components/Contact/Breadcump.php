@@ -12,7 +12,7 @@
     <nav>
         <div class="container">
             <ol>
-                <li><a href="index.html">Inicio</a></li>
+                <li><a href="index.php">Inicio</a></li>
                 <li>Contacto</li>
             </ol>
         </div>
